@@ -17,7 +17,7 @@
 
 ---
 
-## 60-second pitch
+## Overview
 
 In the Philippines, animal rescue reports still scatter across Facebook posts, group chats, phone calls, and informal rescuer networks. That fragmentation produces duplicate reports, delayed response, animals sent to shelters with no capacity or the wrong medical capabilities, and cases that become impossible to track after the animal is picked up.
 
